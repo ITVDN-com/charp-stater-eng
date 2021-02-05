@@ -1,0 +1,23 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Concatenation\obj\x86\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Concatenation\obj\x86\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Concatenation\obj\x86\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Concatenation\obj\x86\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Concatenation\bin\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Concatenation\bin\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Concatenation\bin\Debug\Concatenation.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Concatenation\bin\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Concatenation\bin\Debug\Concatenation.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Concatenation\bin\Debug\Concatenation.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\Concatenation.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\bin\Debug\Concatenation.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\bin\Debug\Concatenation.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Concatenation\obj\x86\Debug\012_Concatenation.csprojResolveAssemblyReference.cache

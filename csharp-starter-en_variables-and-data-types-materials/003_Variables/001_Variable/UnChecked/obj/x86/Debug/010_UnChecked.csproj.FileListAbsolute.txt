@@ -1,0 +1,23 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\UnChecked\obj\x86\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\UnChecked\obj\x86\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\UnChecked\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\UnChecked.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\bin\Debug\UnChecked.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\UnChecked\obj\x86\Debug\010_UnChecked.csprojResolveAssemblyReference.cache

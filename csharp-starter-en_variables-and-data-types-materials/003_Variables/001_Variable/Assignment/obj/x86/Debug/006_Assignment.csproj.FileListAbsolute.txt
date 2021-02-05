@@ -1,0 +1,25 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\bin\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\bin\Debug\Assignment.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+D:\CBS_LESSONS\CS\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+D:\CBS_LESSONS\CS\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+D:\Work\Lessons\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+D:\Work\Lessons\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\Assignment.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\bin\Debug\Assignment.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Assignment\obj\x86\Debug\006_Assignment.csprojResolveAssemblyReference.cache

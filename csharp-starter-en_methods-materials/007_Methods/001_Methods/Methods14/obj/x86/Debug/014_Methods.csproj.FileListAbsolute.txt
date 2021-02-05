@@ -1,0 +1,16 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods14\obj\x86\Debug\Methods19.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods14\obj\x86\Debug\Methods19.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods14\bin\Debug\Methods19.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods14\bin\Debug\Methods19.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods14\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods14\bin\Debug\Methods19.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods14\bin\Debug\Methods19.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods14\obj\x86\Debug\Methods19.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods14\obj\x86\Debug\Methods19.pdb
+I:\C# Starter(Eng)\CS_Starter_ENG\007_Methods\001_Methods\Methods14\obj\x86\Debug\Methods19.exe
+I:\C# Starter(Eng)\CS_Starter_ENG\007_Methods\001_Methods\Methods14\obj\x86\Debug\Methods19.pdb
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods14\obj\x86\Debug\Methods19.exe
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods14\obj\x86\Debug\Methods19.pdb
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods14\bin\Debug\Methods19.exe
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods14\bin\Debug\Methods19.pdb
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods14\obj\x86\Debug\014_Methods.csprojResolveAssemblyReference.cache

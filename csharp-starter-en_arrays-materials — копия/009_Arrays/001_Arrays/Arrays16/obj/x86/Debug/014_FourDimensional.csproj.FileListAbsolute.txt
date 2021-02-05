@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\Arrays16\obj\x86\Debug\Arrays16.exe
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\Arrays16\obj\x86\Debug\Arrays16.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays16\obj\x86\Debug\Arrays16.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays16\obj\x86\Debug\Arrays16.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays16\bin\Debug\Arrays16.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays16\bin\Debug\Arrays16.pdb

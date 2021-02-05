@@ -1,0 +1,24 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\008_Methods\001_Methods\Methods3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.exe
+D:\CBS_LESSONS\CS\CS_Starter_RU\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.exe
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.pdb
+F:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.exe
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.pdb
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.exe
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.pdb
+H:\C# Starter\CS_Starter_RU\008_Methods\001_Methods\Methods3\obj\x86\Debug\002_Methods.csprojResolveAssemblyReference.cache
+I:\C# Starter(Eng)\CS_Starter_ENG\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.exe
+I:\C# Starter(Eng)\CS_Starter_ENG\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.pdb
+E:\CS_Starter_EN\CS_Starter_EN\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.exe
+E:\CS_Starter_EN\CS_Starter_EN\008_Methods\001_Methods\Methods3\obj\x86\Debug\Methods3.pdb
+E:\CS_Starter_EN\CS_Starter_EN\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.exe
+E:\CS_Starter_EN\CS_Starter_EN\008_Methods\001_Methods\Methods3\bin\Debug\Methods3.pdb
+E:\CS_Starter_EN\CS_Starter_EN\008_Methods\001_Methods\Methods3\obj\x86\Debug\002_Methods.csprojResolveAssemblyReference.cache

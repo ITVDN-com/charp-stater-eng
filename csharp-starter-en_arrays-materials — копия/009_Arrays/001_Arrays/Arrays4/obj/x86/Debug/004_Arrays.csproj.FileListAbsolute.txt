@@ -1,0 +1,23 @@
+D:\Arrays\Arrays4\bin\Debug\Arrays4.exe
+D:\Arrays\Arrays4\bin\Debug\Arrays4.pdb
+D:\Arrays\Arrays4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arrays\Arrays4\obj\x86\Debug\Arrays4.exe
+D:\Arrays\Arrays4\obj\x86\Debug\Arrays4.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\008_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays4\bin\Debug\Arrays4.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays4\bin\Debug\Arrays4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays4\bin\Debug\Arrays4.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays4\bin\Debug\Arrays4.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.exe
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays4\obj\x86\Debug\Arrays4.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays4\bin\Debug\Arrays4.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays4\bin\Debug\Arrays4.pdb

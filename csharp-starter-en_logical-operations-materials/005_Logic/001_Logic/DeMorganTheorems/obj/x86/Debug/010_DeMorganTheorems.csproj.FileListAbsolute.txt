@@ -1,0 +1,33 @@
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\002_Logic\DeMorganTheorems\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\002_Logic\DeMorganTheorems\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\005_Logic\001_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.pdb
+H:\C# Starter(Eng)\CS_Starter_ENG\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+H:\C# Starter(Eng)\CS_Starter_ENG\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+D:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+D:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+E:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.exe
+E:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\DeMorganTheorems.pdb
+E:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.exe
+E:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\bin\Debug\DeMorganTheorems.pdb
+E:\CS_Starter_EN\CS_Starter_EN\005_Logic\001_Logic\DeMorganTheorems\obj\x86\Debug\010_DeMorganTheorems.csprojResolveAssemblyReference.cache

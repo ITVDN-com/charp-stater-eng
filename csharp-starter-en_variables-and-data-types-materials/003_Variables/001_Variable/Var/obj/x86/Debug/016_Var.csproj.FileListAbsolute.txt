@@ -1,0 +1,22 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Var\obj\x86\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Var\obj\x86\Debug\Var.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Var\obj\x86\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Var\obj\x86\Debug\Var.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Var\bin\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Var\bin\Debug\Var.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Var\obj\x86\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Var\obj\x86\Debug\Var.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Var\bin\Debug\Var.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Var\bin\Debug\Var.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Var\bin\Debug\Var.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Var\bin\Debug\Var.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\Var.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\Var.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\Var.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\Var.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\Var.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Var\obj\x86\Debug\Var.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Var\bin\Debug\Var.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Var\bin\Debug\Var.pdb

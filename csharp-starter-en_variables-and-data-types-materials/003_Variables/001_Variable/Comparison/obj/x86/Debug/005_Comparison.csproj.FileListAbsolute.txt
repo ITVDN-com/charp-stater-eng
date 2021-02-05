@@ -1,0 +1,25 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Comparison\obj\x86\Debug\Comparison.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Comparison\obj\x86\Debug\Comparison.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison\bin\Debug\Comparison.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison\bin\Debug\Comparison.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Comparison\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison\bin\Debug\Comparison.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Comparison\bin\Debug\Comparison.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Comparison\bin\Debug\Comparison.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Comparison\bin\Debug\Comparison.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb
+D:\CBS_LESSONS\CS\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+D:\CBS_LESSONS\CS\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\Comparison.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\bin\Debug\Comparison.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\bin\Debug\Comparison.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Comparison\obj\x86\Debug\005_Comparison.csprojResolveAssemblyReference.cache

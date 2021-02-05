@@ -1,0 +1,26 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Checked\obj\x86\Debug\Checked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Checked\obj\x86\Debug\Checked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Checked\obj\x86\Debug\Checked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Checked\bin\Debug\Checked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Checked\bin\Debug\Checked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Checked\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\009_Checked.csprojResolveAssemblyReference.cache
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\Checked.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\bin\Debug\Checked.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\bin\Debug\Checked.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Checked\obj\x86\Debug\009_Checked.csprojResolveAssemblyReference.cache

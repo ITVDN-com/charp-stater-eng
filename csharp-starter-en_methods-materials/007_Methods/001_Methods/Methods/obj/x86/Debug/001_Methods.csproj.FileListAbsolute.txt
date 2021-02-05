@@ -1,0 +1,33 @@
+D:\Methods\Methods\obj\x86\Debug\Methods.exe
+D:\Methods\Methods\obj\x86\Debug\Methods.pdb
+D:\Methods\Methods\bin\Debug\Methods.exe
+D:\Methods\Methods\bin\Debug\Methods.pdb
+D:\Methods\Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\obj\x86\Debug\Methods.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\bin\Debug\Methods.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\bin\Debug\Methods.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\obj\x86\Debug\Methods.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\bin\Debug\Methods.exe
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\bin\Debug\Methods.pdb
+d:\-=!!!InWork!!!=-\Lessons\C#Essential_Work\CBS_CS_Essential\C# Essential\005_Methods\001_Methods\Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods\obj\x86\Debug\Methods.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods\bin\Debug\Methods.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods\bin\Debug\Methods.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods(ref out)\001_Methods\Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods\bin\Debug\Methods.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\007_Methods\001_Methods\Methods\bin\Debug\Methods.pdb
+H:\C# Starter(Eng)\CS_Starter_ENG\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.exe
+H:\C# Starter(Eng)\CS_Starter_ENG\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+I:\C# Starter(Eng)\CS_Starter_ENG\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.exe
+I:\C# Starter(Eng)\CS_Starter_ENG\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.exe
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods\obj\x86\Debug\Methods.pdb
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods\bin\Debug\Methods.exe
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods\bin\Debug\Methods.pdb
+E:\CS_Starter_EN\CS_Starter_EN\007_Methods\001_Methods\Methods\obj\x86\Debug\001_Methods.csprojResolveAssemblyReference.cache

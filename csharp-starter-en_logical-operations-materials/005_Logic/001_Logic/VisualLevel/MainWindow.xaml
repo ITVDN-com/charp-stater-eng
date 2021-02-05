@@ -1,0 +1,36 @@
+﻿<Window x:Class="VisualLevel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Visual Level Utility" 
+        Height="130" 
+        Width="400">
+    <Grid>
+        <!--
+            Button - Represents a control "button" of Windows, which responds to the event Click.
+            Margin="Left, Top, Right, Bottom"
+        -->
+        <Button Name="submit" 
+                Click="submit_Click" 
+                HorizontalAlignment="Right" 
+                Width="80" Content="TEST"/>
+
+        <!--
+            TextBlock - Provides a slight control over displaying small amounts of text.
+        
+            VerticalAlignment -Allows you to align the control on the vertical axis.
+            HorizontalAlignment -Aligns the control on the horizontal axis.
+            Padding - To align the content of the element from the sides of the container element.
+            Padding = "Left, Top, Right, Bottom"
+            TextWrapping - Allows you to automatically wrap text if it does not fit in the width of the element.
+        -->
+        <TextBlock Name="tbResult"
+                   Width="300"
+                   Height="100"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Top"
+                   Padding="10,10,10,10"
+                   Background="AliceBlue"
+                   TextWrapping="WrapWithOverflow" />
+    </Grid>
+
+</Window>

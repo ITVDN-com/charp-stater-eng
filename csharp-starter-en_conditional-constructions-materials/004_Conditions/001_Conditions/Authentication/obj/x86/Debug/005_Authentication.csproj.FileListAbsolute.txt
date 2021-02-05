@@ -1,0 +1,36 @@
+D:\Condition\Authentication\bin\Debug\Authentication.exe
+D:\Condition\Authentication\bin\Debug\Authentication.pdb
+D:\Condition\Authentication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Condition\Authentication\obj\x86\Debug\Authentication.exe
+D:\Condition\Authentication\obj\x86\Debug\Authentication.pdb
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+D:\CBS_LESSONS\CBS_CS\CBS_CS_Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.exe
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.pdb
+D:\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.pdb
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+d:\-=Study=-\Andrey\C# Essential\C# Essential\003_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.pdb
+D:\CBS_LESSONS\CS_Starter_RU\Lessons\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+D:\CBS_LESSONS\CS_Starter_RU\Lessons\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+H:\C# Starter(Eng)\CS_Starter_ENG\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.exe
+H:\C# Starter(Eng)\CS_Starter_ENG\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.pdb
+H:\C# Starter(Eng)\CS_Starter_ENG\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+H:\C# Starter(Eng)\CS_Starter_ENG\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+D:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+D:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+D:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.exe
+D:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.pdb
+E:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.exe
+E:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\Authentication.pdb
+E:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.exe
+E:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\bin\Debug\Authentication.pdb
+E:\CS_Starter_EN\CS_Starter_EN\004_Conditions\001_Conditions\Authentication\obj\x86\Debug\005_Authentication.csprojResolveAssemblyReference.cache

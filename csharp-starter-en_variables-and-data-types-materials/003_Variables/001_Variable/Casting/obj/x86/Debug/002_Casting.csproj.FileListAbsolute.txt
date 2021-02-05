@@ -1,0 +1,26 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\obj\x86\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\bin\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\bin\Debug\Casting.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\bin\Debug\Casting.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Casting\bin\Debug\Casting.pdb
+F:\C# Starter\Lessons\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+F:\C# Starter\Lessons\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Casting\bin\Debug\Casting.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Casting\bin\Debug\Casting.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\bin\Debug\Casting.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\bin\Debug\Casting.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\002_Casting.csprojResolveAssemblyReference.cache
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\Casting.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\bin\Debug\Casting.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\bin\Debug\Casting.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Casting\obj\x86\Debug\002_Casting.csprojResolveAssemblyReference.cache

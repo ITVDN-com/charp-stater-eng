@@ -1,0 +1,13 @@
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithArray\bin\Debug\MethodWithArray.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithArray\bin\Debug\MethodWithArray.pdb
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.exe
+D:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb
+F:\C# Starter\CS_Starter_RU\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.exe
+F:\C# Starter\CS_Starter_RU\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.exe
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\MethodWithArray\obj\x86\Debug\MethodWithArray.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\MethodWithArray\bin\Debug\MethodWithArray.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\MethodWithArray\bin\Debug\MethodWithArray.pdb

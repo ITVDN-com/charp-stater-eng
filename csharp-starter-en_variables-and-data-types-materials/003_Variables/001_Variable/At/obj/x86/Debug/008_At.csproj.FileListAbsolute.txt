@@ -1,0 +1,22 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\At\obj\x86\Debug\At.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\At\obj\x86\Debug\At.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\At\obj\x86\Debug\At.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\At\obj\x86\Debug\At.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\At\bin\Debug\At.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\At\bin\Debug\At.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\At\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\At\obj\x86\Debug\At.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\At\obj\x86\Debug\At.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\At\bin\Debug\At.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\At\bin\Debug\At.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\At\bin\Debug\At.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\At\bin\Debug\At.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\At.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\At.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\At.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\At.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\At.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\At\obj\x86\Debug\At.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\At\bin\Debug\At.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\At\bin\Debug\At.pdb

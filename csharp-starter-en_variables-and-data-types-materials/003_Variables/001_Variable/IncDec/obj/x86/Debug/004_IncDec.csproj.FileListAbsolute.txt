@@ -1,0 +1,24 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\IncDec\bin\Debug\IncDec.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\IncDec\bin\Debug\IncDec.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\IncDec\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\004_IncDec.csprojResolveAssemblyReference.cache
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\IncDec.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\bin\Debug\IncDec.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\IncDec\obj\x86\Debug\004_IncDec.csprojResolveAssemblyReference.cache

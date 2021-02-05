@@ -1,0 +1,25 @@
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Sizeof\obj\x86\Debug\Sizeof.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\002_Machine_Mathematics\001_Variables\Sizeof\obj\x86\Debug\Sizeof.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Sizeof\obj\x86\Debug\Sizeof.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Sizeof\obj\x86\Debug\Sizeof.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Sizeof\bin\Debug\Sizeof.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Sizeof\bin\Debug\Sizeof.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables(Work with strings,chars)\001_Variable\Sizeof\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.pdb
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.exe
+d:\-=!!!InWork!!!=-\Lessons\C# Starter\Lessons\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.pdb
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.exe
+D:\CBS_LESSONS\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.pdb
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.exe
+D:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\Sizeof.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.exe
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\bin\Debug\Sizeof.pdb
+E:\CS_Starter_EN\CS_Starter_EN\003_Variables\001_Variable\Sizeof\obj\x86\Debug\015_Sizeof.csprojResolveAssemblyReference.cache

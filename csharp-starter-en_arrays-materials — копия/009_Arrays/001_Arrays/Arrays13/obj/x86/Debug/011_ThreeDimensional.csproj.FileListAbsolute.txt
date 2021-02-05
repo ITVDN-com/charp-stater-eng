@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\obj\x86\Debug\Arrays13.exe
+C:\Users\Student\Desktop\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\obj\x86\Debug\Arrays13.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\obj\x86\Debug\Arrays13.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\obj\x86\Debug\Arrays13.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\bin\Debug\Arrays13.exe
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\bin\Debug\Arrays13.pdb
+E:\CS_Starter_EN\CS_Starter_EN\009_Arrays\001_Arrays\Arrays13\obj\x86\Debug\011_ThreeDimensional.csprojResolveAssemblyReference.cache
